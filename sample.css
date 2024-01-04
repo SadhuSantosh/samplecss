@@ -3,6 +3,6 @@
 }
 
 button{
-    background-color: #0091ac;
-    border-color:#0091ac;
+    background-color: #0091ac !important;
+    border-color:#0091ac !important
 }
