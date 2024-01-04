@@ -1,3 +1,8 @@
 .coral-wrapper button.coral {
   background: #0091ac;
 }
+
+button{
+    background-color: #0091ac;
+    border-color:#0091ac;
+}
